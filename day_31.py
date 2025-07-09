@@ -55,10 +55,3 @@ Username = "Username:"
 print(f"{Username:>25}")
 password = "Password:"
 print(f"{password:>25}")
-
-
-
-
-
-
-

@@ -67,7 +67,7 @@ while user == "yes":
     diceP1 = rollDice(6)
     diceP2 = rollDice(6)
 
-    damage = legendStrengthP1 - legendStrengthP2 + 1 if legendStrengthP1 > legendStrengthP2 else legendStrengthP2 - legendStrengthP1 + 1
+    damage = abs(legendStrengthP1 - legendStrengthP2) + 1
 
     if diceP1 > diceP2:
       print(legendNameP1,"wins the first blow")

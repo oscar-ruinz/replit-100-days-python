@@ -13,3 +13,4 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 44: Jul/31/2025.
 - Day 45: Aug/05/2025.
 - Day 46: Aug/06/2025.
+- Day 47: Aug/11/2025.

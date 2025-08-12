@@ -9,3 +9,4 @@ while True:
   menu = input("Add another? y/n?")
   if menu.lower() != "y":
     break
+f.close()

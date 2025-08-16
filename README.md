@@ -17,3 +17,4 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 48: Aug/12/2025.
 - Day 49: Aug/13/2025.
 - Day 50: Aug/14/2025.
+- Day 51: Aug/15/2025.

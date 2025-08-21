@@ -20,3 +20,5 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 51: Aug/15/2025.
 - Day 52: Aug/18/2025.
 - Day 53: Aug/19/2025.
+- Day 54: Aug/20/2025.
+- Day 55: Aug/20/2025.

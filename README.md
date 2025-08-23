@@ -23,3 +23,4 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 54: Aug/20/2025.
 - Day 55: Aug/20/2025.
 - Day 56: Aug/21/2025.
+- Day 57: Aug/22/2025. (Fail)

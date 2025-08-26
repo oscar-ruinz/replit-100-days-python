@@ -1,4 +1,4 @@
-import random, os, time
+import random
 totalAttempts = 0
 
 def game():

@@ -31,7 +31,7 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 62: Aug/30/2025.
 - Day 63: Aug/31/2025.
 - Day 64: Sep/01/2025.
-- Day 65:
+- Day 65: Sep/02/2025.
 - Day 66:
 - Day 67:
 - Day 68:

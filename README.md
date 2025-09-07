@@ -37,7 +37,7 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 68: Sep/04/2025. (Avoid Tkinter)
 - Day 69: Sep/04/2025. (Avoid Tkinter)
 - Day 70: Sep/05/2025.
-- Day 71:
+- Day 71: Sep/06/2025. (Miss some validations)
 - Day 72:
 - Day 73:
 - Day 74:

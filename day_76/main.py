@@ -1,5 +1,4 @@
 from flask import Flask
-import datetime
 
 app = Flask(__name__, static_url_path="/static")
 
@@ -91,6 +90,3 @@ def home():
   """
 
   return page
-
-
-app.run(host='0.0.0.0', port=81)

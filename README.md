@@ -44,7 +44,7 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 75: Sep/11/2025.
 - Day 76: Sep/12/2025.
 - Day 77: Sep/13/2025.
-- Day 78:
+- Day 78: Sep/14/2025. 
 - Day 79:
 - Day 80:
 - Day 81:

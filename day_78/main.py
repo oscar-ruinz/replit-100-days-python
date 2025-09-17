@@ -38,7 +38,6 @@ reflections = {
 }
 
 @app.route('/<pageNumber>')
-
 def index(pageNumber):
     link = reflections[pageNumber]["link"]
     reflection = reflections[pageNumber]["reflection"]

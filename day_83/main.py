@@ -40,6 +40,4 @@ def hello():
         else:
            page = page.replace("{{color}}","#FFF")
 
-
-
     return page

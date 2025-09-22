@@ -1,14 +1,25 @@
-from flask import Flask, request, redirect
+from flask import Flask, request, redirect, session
 from replit import db
+import os
 
 app = Flask(__name__, static_url_path='/static')
+app.secret_key = os.environ['SESSION_SECRET']
+
 
 @app.route('/login', methods=["POST"])
 def login():
   form = request.form
   try:
     if db[form["username"]]["password"] == form["password"]:
-      return f"<h1>Hello {form['username']}</h1>"
+      name = ""
+      if session.get("myName"):
+        name = session["myName"]
+      else:
+        name = form["username"]
+        session["myName"] = request.form["username"]
+      page = readTemplate("templates/hello.html")
+      page = page.replace("{{{username}}}", name)
+      return page
     else:
       return redirect("/")
   except Exception:
@@ -36,8 +47,15 @@ def sign_up():
 
 @app.route('/')
 def index():
+  if not session.get("myName"):
+    return redirect("/login-page")
   page = readTemplate("templates/index.html")
   return page
+
+@app.route("/reset", methods=["POST"])
+def reset():
+  session.clear()
+  return redirect("/login-page")
 
 def readTemplate(path):
   content = ""

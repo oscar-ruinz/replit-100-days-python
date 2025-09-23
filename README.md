@@ -52,7 +52,7 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 83: Sep/18/2025.
 - Day 84: Sep/19/2025.
 - Day 85: Sep/21/2025.
-- Day 86:
+- Day 86: Sep/23/2025.
 - Day 87:
 - Day 88:
 - Day 89:

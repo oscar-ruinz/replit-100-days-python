@@ -58,7 +58,7 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 89: Sep/25/2025. (Replit Login is not available)
 - Day 90: Sep/25/2025.
 - Day 91: Sep/26/2025.
-- Day 92:
+- Day 92: Sep/27/2025.
 - Day 93:
 - Day 94:
 - Day 95:

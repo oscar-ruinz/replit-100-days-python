@@ -60,7 +60,7 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 91: Sep/26/2025.
 - Day 92: Sep/27/2025.
 - Day 93: Sep/28/2025.
-- Day 94:
+- Day 94: Sep/29/2025.
 - Day 95:
 - Day 96:
 - Day 98:

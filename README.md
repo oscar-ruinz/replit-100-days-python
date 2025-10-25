@@ -66,4 +66,4 @@ Im gonna add the day when i complete every challenge, but starting at day 40 :D.
 - Day 97: Oct/03/2025.
 - Day 98: Oct/16/2025.
 - Day 99: Oct/20/2025.
-- Day 100:
+- Day 100: Oct/24/2025. "The End"
